@@ -1,0 +1,6 @@
+{
+  "name": "Exam Schedule Assistant — AI-Powered Study Planner",
+  "description": "AI-powered exam schedule organizer, personalized daily study timetables, smart reminders, and syllabus progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
